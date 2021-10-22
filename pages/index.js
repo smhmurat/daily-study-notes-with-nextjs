@@ -1,5 +1,5 @@
-function Home() {
-  return <div>Welcome to the Next!</div>;
-}
+import Layout from "../components/layout";
 
-export default Home;
+export default function Home() {
+  return <Layout>Welcome to the Next!</Layout>;
+}
