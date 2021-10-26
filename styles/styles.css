@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px 20px 60px;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    font-size: 2rem;
+    color: #d35400;
+}
